@@ -11,3 +11,5 @@ So, I used in this project:
 - Typescript
 - Chart.js for charts
 - binary search algorithm
+
+_Totally 0% of generated code_. It created from scratch by my own.
